@@ -6,5 +6,3 @@ def square_array(array)
   return squared
 end
 
-my_squared = [1,4,9]
-square_array(my_squared)
